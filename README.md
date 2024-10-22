@@ -11,6 +11,7 @@ UICVD dataset has a total of 121 screenshots from an enterprise web application 
 If you use UICVD, please use the following citation:
 * Dicu, M., Sterca, A., Chira, C. and Orghidan, R., 2024. UICVD: A Computer Vision UI Dataset for Training RPA Agents. In ENASE (pp. 414-421).
 
+```bib
 @inproceedings{dicu2024uicvd,
   title={UICVD: A Computer Vision UI Dataset for Training RPA Agents.},
   author={Dicu, Madalina and Sterca, Adrian and Chira, Camelia and Orghidan, Radu},
@@ -19,3 +20,4 @@ If you use UICVD, please use the following citation:
   year={2024}
 }
 
+```
